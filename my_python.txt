@@ -1,3 +1,5 @@
+import aaa
+
 print("hello")
 
 a=b+c
